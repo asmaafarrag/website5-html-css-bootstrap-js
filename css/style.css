@@ -524,7 +524,7 @@ footer span{
 }
 
 /*loading page*/
-.loading{
+/* .loading{
     position: fixed;
     top: 0;
     left: 0;
@@ -550,7 +550,7 @@ footer span{
     height: 0;
     margin: 8px;
     box-sizing: border-box;
-    border: 32px solid #fff; /* size of icon*/
+    border: 32px solid #fff; 
     border-color: #e19c38 transparent #e19c38 transparent;
     animation: lds-hourglass 1.2s infinite;
   }
@@ -566,7 +566,7 @@ footer span{
     100% {
       transform: rotate(1800deg);
     }
-  }
+  } */
 
 
 
